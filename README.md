@@ -3,5 +3,5 @@
 
 <h5>To get started:</h5>
 <p>- clone this repo</p>
-<p>- run `npm install` in terminal</p>
-<p>- run `npm run start` in terminal to start the game</p>
+<p>- run <code>npm install</code> in terminal</p>
+<p>- run <code>npm run start</code> in terminal to start the game</p>
